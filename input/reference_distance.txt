@@ -1,0 +1,14 @@
+#PDB distance (\AA)
+1ezq 1.6  
+1f0s 1.62 
+1lpg 1.67 
+1ebw 1.0  
+1ec0 1.15 
+1hpx 1.08 
+3std 0.94 
+4std 0.87 
+7std 1.02 
+1az8 1.22 
+1c5t 1.62 
+1gi1 1.58 
+5pti 0.06  
